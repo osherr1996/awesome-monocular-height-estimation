@@ -28,7 +28,7 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 ```mermaid
 pie showData
-    title Paper distribution by section (updated)
+    title Paper distribution by section
     "Surveys" : 1
     "Classical/Shadow-based" : 4
     "CNN/Encoder-Decoder" : 14
