@@ -60,10 +60,9 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Transformers & Hybrid | **Morphological-Priors-Guided Network With Semantic Booster and Scalable Bins Module for Height Estimation From Single-View Remote Sensing Images** | 2025 | IEEE JSTARS | https://doi.org/10.1109/JSTARS.2025.3582823 | - |
 | Transformers & Hybrid | **Height estimation from monocular aerial images using convolutional multi-scale and transformer coupling network (CMT)** | 2025 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625002710 | - |
 | Transformers & Hybrid | **Fusing Convolution and Vision Transformer Encoders for Object Height Estimation from Monocular Satellite and Aerial Images** | 2025 | ICCVW | https://openaccess.thecvf.com/content/ICCV2025W/3D-VAST/html/Gultekin_Fusing_Convolution_and_Vision_Transformer_Encoders_for_Object_Height_Estimation_ICCVW_2025_paper.html | - |
-| Transformers & Hybrid | **TSE-Net** | 2025 | arXiv | https://doi.org/10.48550/arXiv.2511.13552 | https://github.com/zhu-xlab/tse-net |
-| Transformers & Hybrid | **Cross-task Interaction MHE** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/9/1637 | - |
-| Transformers & Hybrid | **Knowledge-guided Multi-task Network** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/3/496 | - |
-| Transformers & Hybrid | **RDAH-Net** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/7/1024 | - |
+| Transformers & Hybrid | **TSE-Net: Semi-supervised Monocular Height Estimation from Single Remote Sensing Images** | 2025 | arXiv | https://doi.org/10.48550/arXiv.2511.13552 | https://github.com/zhu-xlab/tse-net |
+| Transformers & Hybrid | **Synergistic Semantic Segmentation and Height Estimation for Monocular Remote Sensing Images via Cross-Task Interaction** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/9/1637 | - |
+| Transformers & Hybrid | **Knowledge-Guided Multi-Task Network for Remote Sensing Imagery** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/3/496 | - |
 | Diffusion-based | **Single-View Height Estimation with Conditional Diffusion Probabilistic Models** | 2023 | arXiv | https://doi.org/10.48550/arXiv.2304.13214 | - |
 | Diffusion-based | **Leveraging Pretrained Diffusion Model for Semantic 3-D Reconstruction From Monocular Remote Sensing Image** | 2025 | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | - |
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
@@ -71,16 +70,17 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Foundation model-based | **Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation** | 2024 | ECCV | https://arxiv.org/abs/2408.04523 | https://github.com/DarthReca/depth-any-canopy |
 | Foundation model-based | **Height Estimation from Single Remote Sensing Images via Transfer Learning from Monocular Depth Estimation Models
 ** | 2025 | IEEE | https://doi.org/10.1109/RusAutoCon65989.2025.11177401 | - |
+| Foundation model-based | **RDAH-Net: Bridging Relative Depth and Absolute Height for Monocular Height Estimation in Remote Sensing** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/7/1024 | - |
 | Height Completion/Refinement | **Height Prediction and Refinement From Aerial Images With Semantic and Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
 | Height Completion/Refinement | **Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network** | 2026 | IEEE TGRS | https://ieeexplore.ieee.org/abstract/document/11359292 | https://github.com/zhu-xlab/tomosar2height |
 | Height Completion/Refinement | **Enhancing monocular height estimation via sparse LiDAR-guided correction** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
 | Single-SAR | **Deep-learning-based single-image height reconstruction from very-high-resolution SAR intensity data** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003105 | - |
 | Single-SAR | **Large-scale building height retrieval from single SAR imagery based on bounding box regression networks** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003221 | https://github.com/ya0-sun/bbox-SAR-building |
 | Single-SAR | **The SAR2Height framework for urban height map reconstruction from single SAR intensity images** | 2024 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2024.03.023 | - |
-| Single-SAR | **OSM-guided SAR Height Estimation** | 2017 | JURSE | https://doi.org/10.1109/JURSE.2017.7924549 | - |
-| Building/Object-centric | **3DCentripetalNet** | 2023 | ISPRS | https://www.sciencedirect.com/science/article/pii/S1569843223001334 | - |
-| Building/Object-centric | **HeightNet** | 2023 | Electronics | https://www.mdpi.com/2079-9292/12/2/350 | - |
-| Building/Object-centric | **Monocular Building Height (PhiSat-2)** | 2026 | arXiv | https://arxiv.org/abs/2603.29245 | - |
+| Single-SAR | **Building height estimation in single SAR image using OSM building footprints** | 2017 | JURSE | https://doi.org/10.1109/JURSE.2017.7924549 | - |
+| Building/Object-centric | **3DCentripetalNet: Building height retrieval from monocular remote sensing imagery** | 2023 | ISPRS | https://www.sciencedirect.com/science/article/pii/S1569843223001334 | - |
+| Building/Object-centric | **HeightNet: Monocular Object Height Estimation** | 2023 | Electronics | https://www.mdpi.com/2079-9292/12/2/350 | - |
+| Building/Object-centric | **Monocular Building Height Estimation from PhiSat-2 Imagery: Dataset and Method** | 2026 | arXiv | https://arxiv.org/abs/2603.29245 | - |
 
 ## Benchmarks and datasets
 
@@ -92,18 +92,8 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | M4Heights | Scientific Data + GitHub release | mixed (multi-resolution) | Building height benchmarking across **modalities/time**; can be reduced to monocular overhead protocols | https://github.com/RituYadav92/M4Heights |
 | MAMHESet (Luojia3-01 video satellite) | IEEE JSTARS dataset paper | unspecified | Multi-angle monocular height estimation benchmarking; video satellite regime | https://doi.org/10.1109/JSTARS.2025.3591908 |
 | SynRS3D | NeurIPS Datasets & Benchmarks | synthetic | Domain adaptation / synthetic-to-real pipelines; global-scale monocular 3D/height cues | https://proceedings.neurips.cc/paper_files/paper/2024/hash/d4f3da38b491b44d40a0d5a5b37134ba-Abstract-Datasets_and_Benchmarks_Track.html |
+| GAMUS (Geometry-aware Multi-modal Semantic Segmentation) | Research dataset (multi-modal RS benchmark) | mixed (multi-modal) | Geometry-aware multi-modal learning; useful for **joint segmentation + height/geometry reasoning** and multimodal fusion | https://github.com/rs-lsl/GAMUS |
 
-## Code resources
-
-Curated repos explicitly tied to MHE/DSM/nDSM from single overhead imagery (optical or SAR), verified as existing:
-
-- **HTC-DC Net** — https://github.com/zhu-xlab/HTC-DC-Net  
-- **TSE-Net** — https://github.com/zhu-xlab/tse-net  
-- **U-IMG2DSM** — https://github.com/mhaut/UIMG2DSM  
-- **DSMNet (height prediction + refinement)** — https://github.com/melhousni/DSMNet  
-- **TomoSAR2Height** — https://github.com/zhu-xlab/tomosar2height  
-- **M4Heights benchmark** — https://github.com/RituYadav92/M4Heights  
-- **THE Benchmark project site** — https://thebenchmarkh.github.io/
 
 ## Contributing
 
