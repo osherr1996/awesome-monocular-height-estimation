@@ -34,14 +34,11 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 | Section | Title | Year | Venue | Link | Code |
 |---|---|---:|---|---|---|
-
 | Surveys | **The Use of Deep Learning Methods for Object Height Estimation in High Resolution Satellite Images** | 2023 | Sensors | https://doi.org/10.3390/s23198162 | - |
-
 | Classical/Shadow-based | **Relief mapping using nonphotographic spaceborne imagery** | 1989 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/0924271689900270 | - |
 | Classical/Shadow-based | **Automatic building height estimation with shadow in satellite images** | 2023 | SciDirect | https://www.sciencedirect.com/science/article/abs/pii/S235271022300462X | - |
 | Classical/Shadow-based | **Building Height Extraction From High-Resolution Single-View Remote Sensing Images Using Shadow and Side Information** | 2024 | IEEE JSTARS | https://doi.org/10.1109/JSTARS.2024.3372113 | - |
 | Classical/Shadow-based | **Single-Image Building Height Estimation Using Spatial Relationship** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/5/801 | - |
-
 | CNN/Encoder-Decoder | **IM2HEIGHT** | 2018 | arXiv | https://doi.org/10.48550/arXiv.1802.10249 | - |
 | CNN/Encoder-Decoder | **IMG2DSM** | 2018 | IEEE GRSL | https://doi.org/10.1109/LGRS.2018.2806945 | - |
 | CNN/Encoder-Decoder | **Height estimation using encoder–decoder network** | 2019 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2019.01.013 | - |
@@ -56,7 +53,6 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | CNN/Encoder-Decoder | **IMG2HEIGHT** | 2023 | IJRS | https://doi.org/10.1080/01431161.2023.2251185 | - |
 | CNN/Encoder-Decoder | **Contrastive Multi-Scale Refinement Network** | 2023 | Int. J. Digital Earth | https://doi.org/10.1080/17538947.2023.2225881 | - |
 | CNN/Encoder-Decoder | **Semantic-aware Domain Adaptation for MHE** | 2023 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271623000096 | - |
-
 | Transformers & Hybrid | **HTC-DC Net** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3321255 | https://github.com/zhu-xlab/HTC-DC-Net |
 | Transformers & Hybrid | **THE Benchmark** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3311764 | https://thebenchmarkh.github.io/ |
 | Transformers & Hybrid | **Disentangled Latent Transformer** | 2022 | arXiv | https://doi.org/10.48550/arXiv.2201.06357 | - |
@@ -74,20 +70,15 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Transformers & Hybrid | **Cross-task Interaction MHE** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/9/1637 | - |
 | Transformers & Hybrid | **Knowledge-guided Multi-task Network** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/3/496 | - |
 | Transformers & Hybrid | **RDAH-Net** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/7/1024 | - |
-
 | Diffusion-based | **Single-View Height Estimation with Conditional Diffusion Probabilistic Models** | 2023 | arXiv | https://doi.org/10.48550/arXiv.2304.13214 | - |
 | Diffusion-based | **Leveraging Pretrained Diffusion Model for Semantic 3-D Reconstruction From Monocular Remote Sensing Image** | 2025 | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | - |
-
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
-
 | Height Completion/Refinement | **Height Prediction and Refinement with Semantic & Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
 | Height Completion/Refinement | **Sparse LiDAR-guided Height Refinement** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
-
 | Single-SAR | **SAR Height Reconstruction from VHR Intensity Data** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003105 | - |
 | Single-SAR | **Bounding Box Regression for SAR Height** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003221 | - |
 | Single-SAR | **SAR2Height Framework** | 2024 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2024.03.023 | - |
 | Single-SAR | **OSM-guided SAR Height Estimation** | 2017 | JURSE | https://doi.org/10.1109/JURSE.2017.7924549 | - |
-
 | Building/Object-centric | **3DCentripetalNet** | 2023 | ISPRS | https://www.sciencedirect.com/science/article/pii/S1569843223001334 | - |
 | Building/Object-centric | **HeightNet** | 2023 | Electronics | https://www.mdpi.com/2079-9292/12/2/350 | - |
 | Building/Object-centric | **Monocular Building Height (PhiSat-2)** | 2026 | arXiv | https://arxiv.org/abs/2603.29245 | - |
