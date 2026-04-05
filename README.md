@@ -34,37 +34,32 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Section | Title | Year | Venue | Link | Code |
 |---|---|---:|---|---|---|
 | Surveys | **The Use of Deep Learning Methods for Object Height Estimation in High Resolution Satellite Images** | 2023 | Sensors | https://doi.org/10.3390/s23198162 | - |
-| Classical/Shadow-based | **Relief mapping using nonphotographic spaceborne imagery** | 1989 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/0924271689900270 | - |
 | Classical/Shadow-based | **Automatic building height estimation with shadow in satellite images** | 2023 | SciDirect | https://www.sciencedirect.com/science/article/abs/pii/S235271022300462X | - |
 | Classical/Shadow-based | **Building Height Extraction From High-Resolution Single-View Remote Sensing Images Using Shadow and Side Information** | 2024 | IEEE JSTARS | https://doi.org/10.1109/JSTARS.2024.3372113 | - |
-| Classical/Shadow-based | **Single-Image Building Height Estimation Using Spatial Relationship** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/5/801 | - |
-| CNN/Encoder-Decoder | **IM2HEIGHT** | 2018 | arXiv | https://doi.org/10.48550/arXiv.1802.10249 | - |
+| Classical/Shadow-based | **Single-Image Building Height Estimation Using Spatial Distribution-Aware Optimization in Complex Urban Areas** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/5/801 | - |
+| CNN/Encoder-Decoder | **IM2HEIGHT: Height Estimation from Single Monocular Imagery via Fully Residual Convolutional-Deconvolutional Network** | 2018 | arXiv | https://doi.org/10.48550/arXiv.1802.10249 | - |
 | CNN/Encoder-Decoder | **IMG2DSM** | 2018 | IEEE GRSL | https://doi.org/10.1109/LGRS.2018.2806945 | - |
-| CNN/Encoder-Decoder | **Height estimation using encoder–decoder network** | 2019 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2019.01.013 | - |
-| CNN/Encoder-Decoder | **IM2ELEVATION** | 2020 | Remote Sensing | https://doi.org/10.3390/rs12172719 | - |
-| CNN/Encoder-Decoder | **Generating Elevation Surface from RGB Image** | 2020 | Remote Sensing | https://doi.org/10.3390/rs12122002 | https://github.com/Panagiotou/ImageToDEM |
-| CNN/Encoder-Decoder | **U-IMG2DSM** | 2021 | IEEE GRSL | https://doi.org/10.1109/LGRS.2020.2997295 | https://github.com/mhaut/UIMG2DSM |
-| CNN/Encoder-Decoder | **Ordinal Regression Height Estimation** | 2020 | arXiv | https://doi.org/10.48550/arXiv.2006.02801 | - |
-| CNN/Encoder-Decoder | **Soft-Aligned Gradient-Chaining Network** | 2021 | IEEE GRSL | https://doi.org/10.1109/LGRS.2020.2976485 | - |
-| CNN/Encoder-Decoder | **IMG2nDSM** | 2021 | Remote Sensing | https://doi.org/10.3390/rs13122417 | - |
-| CNN/Encoder-Decoder | **Gated Feature Aggregation Network** | 2022 | IEEE GRSL | https://doi.org/10.1109/LGRS.2021.3090470 | - |
-| CNN/Encoder-Decoder | **StyHighNet** | 2021 | Sensors | https://www.mdpi.com/1424-8220/21/7/2272 | - |
-| CNN/Encoder-Decoder | **IMG2HEIGHT** | 2023 | IJRS | https://doi.org/10.1080/01431161.2023.2251185 | - |
-| CNN/Encoder-Decoder | **Contrastive Multi-Scale Refinement Network** | 2023 | Int. J. Digital Earth | https://doi.org/10.1080/17538947.2023.2225881 | - |
-| CNN/Encoder-Decoder | **Semantic-aware Domain Adaptation for MHE** | 2023 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271623000096 | - |
-| Transformers & Hybrid | **HTC-DC Net** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3321255 | https://github.com/zhu-xlab/HTC-DC-Net |
-| Transformers & Hybrid | **THE Benchmark** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3311764 | https://thebenchmarkh.github.io/ |
-| Transformers & Hybrid | **Disentangled Latent Transformer** | 2022 | arXiv | https://doi.org/10.48550/arXiv.2201.06357 | - |
-| Transformers & Hybrid | **ViT Classification-based MHE** | 2022 | IEEE GRSL | https://doi.org/10.1109/LGRS.2022.3142279 | - |
-| Transformers & Hybrid | **Knowledge Transfer for Label-efficient MHE** | 2022 | IGARSS | https://doi.org/10.1109/IGARSS46834.2022.9883623 | - |
-| Transformers & Hybrid | **Soft Weighted Ordinal Classification** | 2022 | IGARSS | https://doi.org/10.1109/IGARSS46834.2022.9883902 | - |
-| Transformers & Hybrid | **Long-tailed Regression Ensembles** | 2023 | JURSE | https://doi.org/10.1109/JURSE57346.2023.10144186 | - |
-| Transformers & Hybrid | **LUMNet** | 2024 | IEEE GRSL | https://doi.org/10.1109/LGRS.2024.3374526 | - |
-| Transformers & Hybrid | **HeightFormer** | 2023 | arXiv | https://doi.org/10.48550/arXiv.2310.07995 | - |
-| Transformers & Hybrid | **Transfer Learning from MDE Models** | 2025 | IEEE | https://doi.org/10.1109/RusAutoCon65989.2025.11177401 | - |
-| Transformers & Hybrid | **MPG-Net** | 2025 | IEEE JSTARS | https://doi.org/10.1109/JSTARS.2025.3582823 | - |
-| Transformers & Hybrid | **CNN-Transformer Coupling (CMT)** | 2025 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625002710 | - |
-| Transformers & Hybrid | **CNN + ViT Fusion** | 2025 | ICCVW | https://openaccess.thecvf.com/content/ICCV2025W/3D-VAST/html/Gultekin_Fusing_Convolution_and_Vision_Transformer_Encoders_for_Object_Height_Estimation_ICCVW_2025_paper.html | - |
+| CNN/Encoder-Decoder | **Height estimation from single aerial images using a deep convolutional encoder-decoder network** | 2019 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2019.01.013 | - |
+| CNN/Encoder-Decoder | **IM2ELEVATION: Building Height Estimation from Single-View Aerial Imagery** | 2020 | Remote Sensing | https://doi.org/10.3390/rs12172719 | - |
+| CNN/Encoder-Decoder | **Generating Elevation Surface from a Single RGB Remotely Sensed Image Using Deep Learning** | 2020 | Remote Sensing | https://doi.org/10.3390/rs12122002 | https://github.com/Panagiotou/ImageToDEM |
+| CNN/Encoder-Decoder | **U-IMG2DSM: Unpaired Simulation of Digital Surface Models With Generative Adversarial Networks** | 2021 | IEEE GRSL | https://doi.org/10.1109/LGRS.2020.2997295 | https://github.com/mhaut/UIMG2DSM |
+| CNN/Encoder-Decoder | **Height estimation from single aerial images using a deep ordinal regression network** | 2020 | arXiv | https://doi.org/10.48550/arXiv.2006.02801 | - |
+| CNN/Encoder-Decoder | **Soft-Aligned Gradient-Chaining Network for Height Estimation From Single Aerial Images** | 2021 | IEEE GRSL | https://doi.org/10.1109/LGRS.2020.2976485 | - |
+| CNN/Encoder-Decoder | **IMG2nDSM: Height Estimation from Single Airborne RGB Images with Deep Learning** | 2021 | Remote Sensing | https://doi.org/10.3390/rs13122417 | - |
+| CNN/Encoder-Decoder | **Gated Feature Aggregation for Height Estimation From Single Aerial Images** | 2022 | IEEE GRSL | https://doi.org/10.1109/LGRS.2021.3090470 | - |
+| CNN/Encoder-Decoder | **StyHighNet: Semi-Supervised Learning Height Estimation from a Single Aerial Image via Unified Style Transferring** | 2021 | Sensors | https://www.mdpi.com/1424-8220/21/7/2272 | - |
+| CNN/Encoder-Decoder | **IMG2HEIGHT: height estimation from single remote sensing image using a deep convolutional encoder-decoder network** | 2023 | IJRS | https://doi.org/10.1080/01431161.2023.2251185 | - |
+| CNN/Encoder-Decoder | **Height estimation from single aerial imagery using contrastive learning based multi-scale refinement network** | 2023 | Int. J. Digital Earth | https://doi.org/10.1080/17538947.2023.2225881 | - |
+| CNN/Encoder-Decoder | **Semantic-aware unsupervised domain adaptation for height estimation from single-view aerial images** | 2023 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271623000096 | - |
+| Transformers & Hybrid | **HTC-DC Net: Monocular Height Estimation From Single Remote Sensing Images** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3321255 | https://github.com/zhu-xlab/HTC-DC-Net |
+| Transformers & Hybrid | **THE Benchmark: Transferable Representation Learning for Monocular Height Estimation** | 2023 | IEEE TGRS | https://doi.org/10.1109/TGRS.2023.3311764 | https://thebenchmarkh.github.io/ |
+| Transformers & Hybrid | **Disentangled Latent Transformer for Interpretable Monocular Height Estimation** | 2022 | arXiv | https://doi.org/10.48550/arXiv.2201.06357 | - |
+| Transformers & Hybrid | **Long-tailed Regression with Ensembles for Monocular Height Estimation from Single Remote Sensing Images** | 2023 | JURSE | https://doi.org/10.1109/JURSE57346.2023.10144186 | - |
+| Transformers & Hybrid | **LUMNet: Land Use Knowledge Guided Multiscale Network for Height Estimation From Single Remote Sensing Images** | 2024 | IEEE GRSL | https://doi.org/10.1109/LGRS.2024.3374526 | - |
+| Transformers & Hybrid | **HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images** | 2023 | arXiv | https://doi.org/10.48550/arXiv.2310.07995 | - |
+| Transformers & Hybrid | **Morphological-Priors-Guided Network With Semantic Booster and Scalable Bins Module for Height Estimation From Single-View Remote Sensing Images** | 2025 | IEEE JSTARS | https://doi.org/10.1109/JSTARS.2025.3582823 | - |
+| Transformers & Hybrid | **Height estimation from monocular aerial images using convolutional multi-scale and transformer coupling network (CMT)** | 2025 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625002710 | - |
+| Transformers & Hybrid | **Fusing Convolution and Vision Transformer Encoders for Object Height Estimation from Monocular Satellite and Aerial Images** | 2025 | ICCVW | https://openaccess.thecvf.com/content/ICCV2025W/3D-VAST/html/Gultekin_Fusing_Convolution_and_Vision_Transformer_Encoders_for_Object_Height_Estimation_ICCVW_2025_paper.html | - |
 | Transformers & Hybrid | **TSE-Net** | 2025 | arXiv | https://doi.org/10.48550/arXiv.2511.13552 | https://github.com/zhu-xlab/tse-net |
 | Transformers & Hybrid | **Cross-task Interaction MHE** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/9/1637 | - |
 | Transformers & Hybrid | **Knowledge-guided Multi-task Network** | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/3/496 | - |
@@ -74,7 +69,8 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
 | Foundation model-based | **Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar** | 2024 | RSE | https://www.sciencedirect.com/science/article/pii/S003442572300439X | https://github.com/facebookresearch/HighResCanopyHeight |
 | Foundation model-based | **Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation** | 2024 | ECCV | https://arxiv.org/abs/2408.04523 | https://github.com/DarthReca/depth-any-canopy |
-
+| Foundation model-based | **Height Estimation from Single Remote Sensing Images via Transfer Learning from Monocular Depth Estimation Models
+** | 2025 | IEEE | https://doi.org/10.1109/RusAutoCon65989.2025.11177401 | - |
 | Height Completion/Refinement | **Height Prediction and Refinement From Aerial Images With Semantic and Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
 | Height Completion/Refinement | **Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network** | 2026 | IEEE TGRS | https://ieeexplore.ieee.org/abstract/document/11359292 | https://github.com/zhu-xlab/tomosar2height |
 | Height Completion/Refinement | **Enhancing monocular height estimation via sparse LiDAR-guided correction** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
