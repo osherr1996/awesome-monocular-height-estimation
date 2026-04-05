@@ -68,8 +68,7 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
 | Foundation model-based | **Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar** | 2024 | RSE | https://www.sciencedirect.com/science/article/pii/S003442572300439X | https://github.com/facebookresearch/HighResCanopyHeight |
 | Foundation model-based | **Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation** | 2024 | ECCV | https://arxiv.org/abs/2408.04523 | https://github.com/DarthReca/depth-any-canopy |
-| Foundation model-based | **Height Estimation from Single Remote Sensing Images via Transfer Learning from Monocular Depth Estimation Models
-** | 2025 | IEEE | https://doi.org/10.1109/RusAutoCon65989.2025.11177401 | - |
+| Foundation model-based | **Height Estimation from Single Remote Sensing Images via Transfer Learning from Monocular Depth Estimation Models** | 2025 | IEEE | https://doi.org/10.1109/RusAutoCon65989.2025.11177401 | - |
 | Foundation model-based | **RDAH-Net: Bridging Relative Depth and Absolute Height for Monocular Height Estimation in Remote Sensing** | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/7/1024 | - |
 | Height Completion/Refinement | **Height Prediction and Refinement From Aerial Images With Semantic and Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
 | Height Completion/Refinement | **Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network** | 2026 | IEEE TGRS | https://ieeexplore.ieee.org/abstract/document/11359292 | https://github.com/zhu-xlab/tomosar2height |
