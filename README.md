@@ -73,7 +73,8 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Diffusion-based | **Leveraging Pretrained Diffusion Model for Semantic 3-D Reconstruction From Monocular Remote Sensing Image** | 2025 | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | - |
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
 | Height Completion/Refinement | **Height Prediction and Refinement with Semantic & Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
-| Height Completion/Refinement | **Sparse LiDAR-guided Height Refinement** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
+| Height Completion/Refinement | **Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network** | 2026 | IEEE TGRS | https://ieeexplore.ieee.org/abstract/document/11359292 | https://github.com/zhu-xlab/tomosar2height |
+| Height Completion/Refinement | **Enhancing monocular height estimation via sparse LiDAR-guided correction** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
 | Single-SAR | **SAR Height Reconstruction from VHR Intensity Data** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003105 | - |
 | Single-SAR | **Bounding Box Regression for SAR Height** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003221 | - |
 | Single-SAR | **SAR2Height Framework** | 2024 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2024.03.023 | - |
