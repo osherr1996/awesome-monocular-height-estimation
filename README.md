@@ -25,22 +25,6 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview charts
-
-```mermaid
-timeline
-    title Key milestones in monocular height estimation (MHE) for overhead imagery
-    1989 : Relief mapping from spaceborne imagery (classical)
-    2017 : Joint semantic labeling + nDSM from monocular aerial images (IGARSS)
-    2018 : IM2HEIGHT (CNN), IMG2DSM (cGAN)
-    2019 : Deep encoder–decoder MHE (ISPRS); Pop-Net (IGARSS); multi-path fusion (ICMEW)
-    2021 : DSMNet refinement (IEEE Access); soft-aligned gradient chaining (GRSL)
-    2022 : SCE-Net multi-task height+semantics; ViT-based classification framing; SAR single-image height proof-of-concept (ISPRS)
-    2023 : HTC-DC Net; THE Benchmark (transferable representation learning)
-    2024 : SAR2Height (single SAR intensity → height maps)
-    2025 : Semi-supervised self-training (TSE-Net); coupling CNN+Transformer (ISPRS); M4Heights benchmark release
-    2026 : LiDAR-guided correction (height refinement); TomoSAR2Height (TGRS accepted)
-```
 
 ```mermaid
 pie showData
