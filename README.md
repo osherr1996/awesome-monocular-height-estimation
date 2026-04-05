@@ -18,27 +18,12 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 ## Contents
 
-- [Overview charts](#overview-charts)
+- [Overview]
 - [Papers](#papers)
 - [Benchmarks and datasets](#benchmarks-and-datasets)
 - [Code resources](#code-resources)
 - [Contributing](#contributing)
 - [License](#license)
-
-
-```mermaid
-pie showData
-    title Paper distribution by section
-    "Surveys" : 1
-    "Classical/Shadow-based" : 4
-    "CNN/Encoder-Decoder" : 14
-    "Transformers & Hybrid" : 17
-    "Foundation models" : 2
-    "Diffusion-based" : 2
-    "Height Completion/Refinement" : 2
-    "Single-SAR" : 6
-    "Building/Object-centric" : 11
-    "Benchmarks & Datasets" : 3
 
 ## Papers
 
