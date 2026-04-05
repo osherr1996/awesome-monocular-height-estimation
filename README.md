@@ -120,8 +120,6 @@ pie showData
 | M4Heights | Scientific Data + GitHub release | mixed (multi-resolution) | Building height benchmarking across **modalities/time**; can be reduced to monocular overhead protocols | https://github.com/RituYadav92/M4Heights |
 | MAMHESet (Luojia3-01 video satellite) | IEEE JSTARS dataset paper | unspecified | Multi-angle monocular height estimation benchmarking; video satellite regime | https://doi.org/10.1109/JSTARS.2025.3591908 |
 | SynRS3D | NeurIPS Datasets & Benchmarks | synthetic | Domain adaptation / synthetic-to-real pipelines; global-scale monocular 3D/height cues | https://proceedings.neurips.cc/paper_files/paper/2024/hash/d4f3da38b491b44d40a0d5a5b37134ba-Abstract-Datasets_and_Benchmarks_Track.html |
-| IEEE GRSS Data Fusion Contest 2019 (Large-Scale Semantic 3D Reconstruction) | IEEE GRSS contest | unspecified | Height/3D semantic urban reconstruction; some works use subsets for monocular height | unspecified |
-| IEEE GRSS Data Fusion Contest 2023 (Fine-grained building classification + height) | IEEE GRSS contest | unspecified | Joint building attributes + height estimation; leaderboard-style benchmarking | unspecified |
 
 ## Code resources
 
