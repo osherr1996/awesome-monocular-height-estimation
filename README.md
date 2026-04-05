@@ -28,17 +28,17 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 ```mermaid
 pie showData
-    title Paper distribution by section (this list)
+    title Paper distribution by section (updated)
     "Surveys" : 1
     "Classical/Shadow-based" : 4
     "CNN/Encoder-Decoder" : 14
     "Transformers & Hybrid" : 17
+    "Foundation models" : 2
     "Diffusion-based" : 2
     "Height Completion/Refinement" : 2
     "Single-SAR" : 6
     "Building/Object-centric" : 11
     "Benchmarks & Datasets" : 3
-```
 
 ## Papers
 
@@ -86,7 +86,6 @@ pie showData
 | Transformers & Hybrid | **Knowledge-Guided Multi-Task Network for Remote Sensing Imagery**<br>*Authors:* M. Li; (others unspecified).<br>*Notes:* Multi-task setup (semantics + height) guided by prior knowledge; evaluates height estimation against strong DSM/nDSM baselines. Dataset(s): ISPRS Potsdam/Vaihingen (paper). | 2025 | Remote Sensing | https://www.mdpi.com/2072-4292/17/3/496 | unspecified |
 | Transformers & Hybrid | **RDAH-Net: Bridging Relative Depth and Absolute Height for Single-View Remote Sensing Image Height Estimation**<br>*Authors:* L. Jiang; (others unspecified).<br>*Notes:* Bridges relative-depth priors (from depth models) with absolute height supervision; explicitly targets metric height inference from overhead imagery. Dataset(s): unspecified. | 2026 | Remote Sensing | https://www.mdpi.com/2072-4292/18/7/1024 | unspecified |
 | Diffusion-based | **Single-View Height Estimation with Conditional Diffusion Probabilistic Models**<br>*Authors:* unspecified (see paper).<br>*Notes:* Uses conditional diffusion for height map generation to improve fidelity and uncertainty modeling; relevant for high-detail DSM edges. Dataset(s): unspecified. | 2023 | arXiv | https://doi.org/10.48550/arXiv.2304.13214 | unspecified |
-| Diffusion-based | **(IEEE) Diffusion-based monocular height estimation**<br>*Authors:* unspecified.<br>*Notes:* Diffusion-based approach applied to MHE (exact bibliographic metadata not accessible on this page without IEEE full access). Dataset(s): unspecified. | unspecified | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | unspecified |
 | Diffusion-based | **(IEEE) Diffusion-based monocular height estimation**<br>*Authors:* unspecified.<br>*Notes:* Diffusion-based approach applied to MHE (exact bibliographic metadata not accessible on this page without IEEE full access). Dataset(s): unspecified. | unspecified | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | unspecified |
 | Diffusion-based | **Leveraging Pretrained Diffusion Model for Semantic 3-D Reconstruction From Monocular Remote Sensing Image**<br>*Authors:* unspecified.<br>*Notes:* Uses pretrained diffusion models as geometric priors for reconstructing semantic 3D structure from a single overhead image. While primarily targeting 3D reconstruction, it implicitly models height distributions and can be leveraged for monocular height estimation (MHE). Dataset(s): unspecified. | 2025 | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | unspecified |
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing**<br>*Authors:* unspecified.<br>*Notes:* Leverages pretrained monocular depth models as geometric priors and adapts them to predict metric elevation (DSM) from single overhead imagery, introducing a prior-based formulation for monocular height estimation (MHE). Dataset(s): unspecified. | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | unspecified |
