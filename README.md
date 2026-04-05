@@ -18,7 +18,6 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 ## Contents
 
-- [Overview]
 - [Papers](#papers)
 - [Benchmarks and datasets](#benchmarks-and-datasets)
 - [Code resources](#code-resources)
