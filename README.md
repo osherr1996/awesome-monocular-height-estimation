@@ -72,14 +72,15 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 | Diffusion-based | **Single-View Height Estimation with Conditional Diffusion Probabilistic Models** | 2023 | arXiv | https://doi.org/10.48550/arXiv.2304.13214 | - |
 | Diffusion-based | **Leveraging Pretrained Diffusion Model for Semantic 3-D Reconstruction From Monocular Remote Sensing Image** | 2025 | IEEE | https://ieeexplore.ieee.org/abstract/document/11346819 | - |
 | Foundation model-based | **Depth2Elevation: Bridging Monocular Depth and Elevation Estimation in Remote Sensing** | 2025 | IEEE | https://ieeexplore.ieee.org/document/10978076 | - |
-| Foundation model-based | **Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar** | 2024 | RSE | [https://ieeexplore.ieee.org/document/10978076](https://www.sciencedirect.com/science/article/pii/S003442572300439X) | https://github.com/facebookresearch/HighResCanopyHeight |
+| Foundation model-based | **Very high resolution canopy height maps from RGB imagery using self-supervised vision transformer and convolutional decoder trained on aerial lidar** | 2024 | RSE | https://www.sciencedirect.com/science/article/pii/S003442572300439X | https://github.com/facebookresearch/HighResCanopyHeight |
+| Foundation model-based | **Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation** | 2024 | ECCV | https://arxiv.org/abs/2408.04523 | https://github.com/DarthReca/depth-any-canopy |
 
-| Height Completion/Refinement | **Height Prediction and Refinement with Semantic & Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
+| Height Completion/Refinement | **Height Prediction and Refinement From Aerial Images With Semantic and Geometric Guidance** | 2021 | IEEE Access | https://doi.org/10.1109/ACCESS.2021.3122894 | https://github.com/melhousni/DSMNet |
 | Height Completion/Refinement | **Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network** | 2026 | IEEE TGRS | https://ieeexplore.ieee.org/abstract/document/11359292 | https://github.com/zhu-xlab/tomosar2height |
 | Height Completion/Refinement | **Enhancing monocular height estimation via sparse LiDAR-guided correction** | 2026 | ISPRS JPRS | https://www.sciencedirect.com/science/article/abs/pii/S0924271625004885 | - |
 | Single-SAR | **Deep-learning-based single-image height reconstruction from very-high-resolution SAR intensity data** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003105 | - |
 | Single-SAR | **Large-scale building height retrieval from single SAR imagery based on bounding box regression networks** | 2022 | ISPRS JPRS | https://www.sciencedirect.com/science/article/pii/S0924271621003221 | https://github.com/ya0-sun/bbox-SAR-building |
-| Single-SAR | **SAR2Height Framework** | 2024 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2024.03.023 | - |
+| Single-SAR | **The SAR2Height framework for urban height map reconstruction from single SAR intensity images** | 2024 | ISPRS JPRS | https://doi.org/10.1016/j.isprsjprs.2024.03.023 | - |
 | Single-SAR | **OSM-guided SAR Height Estimation** | 2017 | JURSE | https://doi.org/10.1109/JURSE.2017.7924549 | - |
 | Building/Object-centric | **3DCentripetalNet** | 2023 | ISPRS | https://www.sciencedirect.com/science/article/pii/S1569843223001334 | - |
 | Building/Object-centric | **HeightNet** | 2023 | Electronics | https://www.mdpi.com/2079-9292/12/2/350 | - |
