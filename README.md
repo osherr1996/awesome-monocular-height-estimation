@@ -12,9 +12,6 @@ A verified, curated **Awesome-list** of **Monocular Height Estimation (MHE)** an
 
 - Focused on **MHE / DSM / nDSM from single-view overhead imagery**, including optical and single-SAR variants, with dataset and code pointers when publicly available.
 - Each paper entry includes **full title, full author list (or “unspecified”), year, venue, DOI/arXiv link, 1–2 sentence annotation**, and **code link if available** (otherwise “unspecified”).
-- Includes: **60+ verified papers** (publisher/arXiv/official pages), plus benchmark/dataset table with practical usage notes.
-- Provides a **mermaid timeline** of key milestones and a **mermaid pie chart** of paper distribution by section.
-- Ready to paste into `README.md` (Awesome style, TOC, contribution guide, MIT license).
 
 ## Contents
 
